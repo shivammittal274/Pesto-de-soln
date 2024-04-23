@@ -1,0 +1,6 @@
+.vscode
+env
+.cassandra*
+.env
+TODO.md
+__pycache__
